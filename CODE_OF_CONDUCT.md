@@ -17,25 +17,22 @@
 ### Purpose
 
 
-We want to make sustainable technology with a diverse and cohesive community. In the same way that we follow best software engineering practices based on research and community experiences, we follow the latest evidence in the inclusion of a Code of Conduct (CoC) and its design. We welcome feedback.
+We want to make sustainable technology with a diverse and cohesive community.
+In the same way that we follow best-practices of software engineering based
+on research and community experiences, we follow the latest evidence in the
+inclusion of a Code of Conduct (CoC) and its design. We welcome feedback.
 
 <details><summary><b>Show more</b></summary><br />
 
+We empathize with serious concerns that CoC may represent a loss of freedom of
+speech, inhibit personal expression, or bring unnecessary discussion to what
+should be the development of technology.
 
-We understand and empathise with serious concerns that CoC may represent a loss of freedom of speech, inhibit personal expression or bring unnecessary discussion in what should be the development of technology.
-
-To these concerns, we can say that evidence based research has thus far demonstrated that Codes of Conduct are instrumental to demonstrating, and enforcing inclusive communities which allows a diverse set of skills and perspectives to prosper. Meritocracy is not sustainable outside of interactions between absolute equals (including cultural norms and understandings).
-
-> *"Discrimination and bad culture in tech firms cost sixteen billion dollars a year to the tech industry... people, especially minorities leaving the company because of being discriminated against ... are less likely to refer others to join ... can limit the company's access to talented employees..."*[1]
-
-> *"[Among a sample set of FOSS projects, it was concluded] that the adoption of a [CoC] is statistically neglible ... differentiating the failed projects from the most popular ones... [However] they note that not one of the failed projects had a [CoC], nor did any included in the 'least popular' category... some of the developers of the failed projects considered cited 'conflict among developers' as a reason for failure."*[1]
-
-> *"Core open source values include transparency, openness, and meritocracy"*[2]
-
-> *"[No Code of Conduct movements] emphasizes that people's political or social identity should be irrelevant in open source: 'We don't care if you're liberal or conservative, black or white, straight or gay, or anything in between! In fact, we won't bring it up, or ask. We simply do not care' ... the very concept of meritocracy in and of itself is problematic in encouraging a broader set of voices to participate, and allows users to sidestep the issues of inclusion and diversity altogether."*[3]
-
-> *"... modern OSS communities are 'embedded with cultural values that tenasciously support free speech expression' which allow for hostile, sexist, or homophobic speech to flourish."*[2]
-
+To these concerns, we say that evidence-based research has shown that Codes
+of Conduct are instrumental to achieving and sustaining inclusive communities
+which promote diverse sets of skills and perspectives. Meritocracy is not
+sustainable outside of interactions between absolute equals, including cultural
+norms and understandings.
 
 </details>
 
@@ -43,26 +40,28 @@ To these concerns, we can say that evidence based research has thus far demonstr
 
 ## Scope
 
-In-line with scholarly literature, this Code of Conduct applies to spaces both online and offline.
+This Code of Conduct applies to spaces both online and offline.
 
-<details><summary><b>Explanation of spaces included and to what degree</b></summary><br />
+<details>
 
-Online spaces managed by Nim-Works organisation will be held to the standards here. Spaces that represent our users (or where the users are otherwise representing Nim-Works) may still be held accountable to the standards here (in regards to their status as an official member of the organisation) depending on the context.
+Online spaces managed by the Nim-Works organization will be held to the
+following standards. Spaces that represent our users, or where users are
+otherwise representing Nim-Works, may still be held accountable to these
+standards depending upon context and official status of the representative.
 
-Offline spaces where members interact such as at Open Source Conferences (not excluding others) will be held to the same standards listed below.
-
-> For example, a publicly known member of the community which is discovered to actively, and repeatedly, be insulting and threatening members in other public online spaces will have their actions investigated according to these standards.
-
+Offline spaces where members interact, including but not limited to
+conferences, will be similarly held to the standards below.
 
 </details>
-
-<!-- Make sure any future spaces are added to this document -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Code of Conduct
 
-Simplicity is best. However we recognise that "simple" is a very subjective and non-inclusive term in itself. Therefore, we have outlined the main values of our Code of Conduct; however, you are able to expand the sections below particular values to see more specific themes and rules that contribute to the value.
+Simplicity is best. However, we recognize that "simple" is a subjective and
+non-inclusive term itself. Therefore, we have outlined the main values of our
+Code of Conduct; however, you can expand the sections below particular values
+to see more bullshit to puzzle over.
 
 1. <details><summary>We are an open and inclusive community, so I should behave in a manner which is respectful of others without discrimination.</summary><br />
 
